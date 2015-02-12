@@ -5,7 +5,6 @@ permalink: /about/
 published: true
 ---
 
-# About me.
 Hello, welcome to my little neck of the woods. My name is Christiaan, and I'm ~32 years old. I work as a SysAdmin / Devops for a Dutch web-dev and hsoting company. 
 
 ### Hobby's and Freetime
